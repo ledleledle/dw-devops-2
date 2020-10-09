@@ -5,7 +5,7 @@ Soal &amp; jawaban bootcamp Dumb Ways kloter 2
 - https://aws.amazon.com/id/devops/what-is-devops
 - https://www.lucidchart.com/blog/devops-process-flow
 - https://en.wikipedia.org/wiki/Ansible_(software)
-- https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
+- https://k21academy.com/terraform-iac/why-terraform-not-chef-ansible-puppet-cloudformation/
 - https://inixindojogja.co.id/sql-vs-nosql-perbedaan-dalam-menentukan-pilihan-database
 - https://www.digitalocean.com/community/tutorials/how-to-install-lemp-nginx-mysql-php-stack-on-arch-linux
 - https://www.youtube.com/watch?v=zDiQrgeGTuU
