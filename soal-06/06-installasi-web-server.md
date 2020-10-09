@@ -40,4 +40,4 @@ phpinfo();
 ```
 8. Buka browser lalu buka halaman <a href="localhost">localhost</a> atau <a href="127.0.0.1">127.0.0.1</a> dan <a href="localhost/info.php">localhost/info.php</a>
 
-Berikut video installasi yang saya lampirkan. <a href="https://github.com/ledleledle/dw-devops-2/blob/main/soal-06/06-video.mkv">Video Installasi Web Server</a>
+Berikut video installasi yang saya lampirkan. <a href="https://github.com/ledleledle/dw-devops-2/raw/main/soal-06/06-video.mkv">Video Installasi Web Server</a>
