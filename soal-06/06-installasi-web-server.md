@@ -11,11 +11,11 @@ Pada praktek ini saya menggunakan Distro **Arch Linux** dan text editor **nano**
 4. Edit konfigurasi nginx agar nginx dapat menjalankan php.
 <code>nano /etc/nginx/nginx.conf</code>
 5. Cari dan edit beberapa baris
-<code>
+```
 location ~ \.php$ {
       fastcgi_pass   unix:/var/run/php-fpm/php-fpm.sock;
       fastcgi_index  index.php;
       root   /srv/http;
       include        fastcgi.conf;
  }
-</code>
+```
