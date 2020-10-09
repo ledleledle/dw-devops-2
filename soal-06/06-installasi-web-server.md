@@ -10,7 +10,8 @@ Pada praktek ini saya menggunakan Distro **Arch Linux** dan text editor **nano**
 <code>systemctl start nginx.service php-fpm.service</code>
 4. Edit konfigurasi nginx agar nginx dapat menjalankan php.
 <code>nano /etc/nginx/nginx.conf</code>
-5. Cari dan edit beberapa baris ```
+5. Cari dan edit beberapa baris
+```
 location ~ \.php$ {
       fastcgi_pass   unix:/var/run/php-fpm/php-fpm.sock;
       fastcgi_index  index.php;
