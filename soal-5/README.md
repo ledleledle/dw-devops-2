@@ -1,0 +1,1 @@
+Definisikan database SQL dan NoSQL menurut Kamu, serta berikan contoh dari masing-masing database yang telah Kamu sebutkan?
