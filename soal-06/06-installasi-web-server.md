@@ -14,8 +14,8 @@ Pada praktek ini saya menggunakan Distro **Arch Linux** dan text editor **nano**
 Cari dan edit beberapa baris
 ```
 location / {
-			root /usr/share/nginx/html;
-			index index.html index.htm index.php
+      root /usr/share/nginx/html;
+      index index.html index.htm index.php
 }
 
 ...
